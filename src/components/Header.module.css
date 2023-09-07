@@ -1,0 +1,20 @@
+.header{
+  background: var(--gray-800);
+  padding: 1.25rem 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header svg{
+  height: 2rem;
+  width: 2rem;
+}
+
+.header h1{
+  color: var(--gray-100);
+  line-height: 1.6;
+  font-size: 1.25rem;
+}
